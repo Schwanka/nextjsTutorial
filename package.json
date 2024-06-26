@@ -4,6 +4,8 @@
     "react-dom": "^19.0.0-rc-dfd30974ab-20240613"
   },
   "scripts": {
-  "dev": "dev"
+    "dev": "dev",
+    "start": "next start",
+    "lint": "next lint"
   }
 }
